@@ -1,4 +1,4 @@
 const color = require('colors')
 
 
-console.log('helo'.green);
+console.log('helo'.red);
